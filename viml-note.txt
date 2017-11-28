@@ -1,0 +1,16 @@
+function
+function with parameters
+function with parameters and the numbers of them is uncertain
+variable scopes
+number
+string
+funcref
+list
+dictionary
+DATA TYPE:
+    0 number
+    1 string 
+    funcref
+    list
+    dictionary
+    float
